@@ -1,7 +1,7 @@
 # Ahammed Ajmal – Portfolio
 
 Live website:  
-👉 https://yourusername.github.io/portfolio/
+👉 http://ahammedajmal.in/
 
 ## About
 Personal portfolio built using Bootstrap 5.
